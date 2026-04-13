@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/math-stats/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/math-stats/actions)
+[![License](https://img.shields.io/github/license/Tox1469/math-stats?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/math-stats?style=flat-square)](https://github.com/Tox1469/math-stats/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/math-stats?style=flat-square)](https://github.com/Tox1469/math-stats/stargazers)
+
+---
+
 # math-stats
 
 Funcoes estatisticas basicas em TypeScript puro, sem dependencias.
