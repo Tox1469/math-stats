@@ -1,0 +1,18 @@
+{
+  "name": "math-stats",
+  "version": "1.0.0",
+  "description": "Funcoes estatisticas: media, mediana, desvio padrao, variancia e percentis",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["stats", "mean", "median", "stddev", "variance", "percentile"],
+  "author": "Tox",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
